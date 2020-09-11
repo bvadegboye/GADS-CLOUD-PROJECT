@@ -1,6 +1,5 @@
 # GADS-CLOUD-PROJECT
 Bunmi Victoria Adegboye's GADS Cloud Project.
-
 List of items in Repo:
 * Screenshots of proof of completion of 10 selected hands-on labs on Qwiklabs.
 
@@ -13,7 +12,7 @@ List of items in Repo:
 7. AK8S-02 Working with Cloud Build
 8. Infrastructure Preview
 9. Console and Cloud Shell
-10.AK8S-03 Creating a GKE Cluster via GCP Console
+10. AK8S-03 Creating a GKE Cluster via GCP Console
 
 * Screenshots of “Translation” of 2 selected labs from Console instructions to 100% command line instructions.
 1. Google Cloud Fundamentals: Getting Started with GKE
